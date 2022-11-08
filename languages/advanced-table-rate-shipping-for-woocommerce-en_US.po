@@ -1,0 +1,667 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Generator: babel-plugin-makepot\n"
+
+#: src/components/Singletablerate/Additional-settings.js:11
+#: src/pages/Additionaloptions.js:53
+msgid "Additional Settings"
+msgstr ""
+
+#: src/components/Singletablerate/Additional-settings.js:16
+msgid "Default Selection"
+msgstr ""
+
+#: src/components/Singletablerate/Additional-settings.js:38
+msgid "Hide Other Options"
+msgstr ""
+
+#: src/components/Singletablerate/Additional-settings.js:59
+msgid "Disable Option"
+msgstr ""
+
+#: src/components/Singletablerate/Additional-settings.js:80
+msgid "Combine Descriptions"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:1002
+msgid "Delete this method."
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:1042
+msgid "Conditions"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:1043
+msgid "Costs"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:1044
+msgid "Description"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:282
+msgid "Subtotal"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:283
+msgid "Quantity"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:361
+#: src/pages/Methodconditions.jsx:118
+msgid "Before"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:362
+#: src/pages/Methodconditions.jsx:119
+msgid "After"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:366
+msgid "Includes"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:367
+msgid "Excludes"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:419
+#: src/pages/Methodconditions.jsx:184
+msgid "Reset"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:420
+#: src/pages/Methodconditions.jsx:185
+msgid "Apply"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:524
+msgid "Value"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:546
+msgid "Delivery Within"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:549
+msgid "Delivery Day"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:561
+msgid "Day(s)"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:650
+msgid "Add Condition"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:665
+msgid "Add Delivery Days"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:673
+msgid "Remove Delivery Days"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:710
+msgid "Add Additional Cost"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:749
+msgid "Index"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:753
+msgid "Condition"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:757
+msgid "Compare"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:761
+msgid "Condition value"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:765
+msgid "Delivery day"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:769
+msgid "Cost"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:773
+msgid "Cost unit"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:777
+msgid "Cost multiplied by"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:781
+msgid "Cost for every unit"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:785
+msgid "Cost for every condition"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:789
+msgid "Cost for every extra secondary"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:860
+msgid "No shipping options have been added yet."
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:872
+msgid "Delete this method"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:903
+#: src/pages/ModallistWrap.jsx:173
+msgid "Delete Selected"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:906
+msgid "Delete selected rows."
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:968
+msgid "Export to CSV"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:971
+msgid "Table row export to CSV."
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:980
+msgid "Import from CSV"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:983
+msgid "Import From CSV."
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:990
+msgid "Add Table Row"
+msgstr ""
+
+#: src/components/Singletablerate/Singletablerate.js:992
+msgid "Add new table row."
+msgstr ""
+
+#: src/components/Tabs/index.js:106
+msgid "Additional Options"
+msgstr ""
+
+#: src/components/Tabs/index.js:112
+#: src/pages/Tableofrates.jsx:195
+msgid "Table of Rates"
+msgstr ""
+
+#: src/components/Tabs/index.js:86
+#: src/pages/General.jsx:41
+msgid "General Settings"
+msgstr ""
+
+#: src/components/Tabs/index.js:92
+msgid "City Settings"
+msgstr ""
+
+#: src/components/Tabs/index.js:99
+msgid "Method & Volumetric Settings"
+msgstr ""
+
+#: src/pages/Additionaloptions.js:106
+msgid "Include Coupons"
+msgstr ""
+
+#: src/pages/Additionaloptions.js:109
+msgid "Shipping total cost is calculated based on cart value after coupons."
+msgstr ""
+
+#: src/pages/Additionaloptions.js:112
+msgid "Shipping cost is calculated based on cart value after coupons."
+msgstr ""
+
+#: src/pages/Additionaloptions.js:126
+msgid "Round Weight"
+msgstr ""
+
+#: src/pages/Additionaloptions.js:132
+msgid "Rounds weight value up to the next whole number."
+msgstr ""
+
+#: src/pages/Additionaloptions.js:146
+msgid "Hide this Method"
+msgstr ""
+
+#: src/pages/Additionaloptions.js:149
+msgid "If checked, hide this method if free shipping is available."
+msgstr ""
+
+#: src/pages/Additionaloptions.js:152
+msgid "Hide this shipping method when free shipping is available."
+msgstr ""
+
+#: src/pages/Additionaloptions.js:167
+msgid "Hide Other Method"
+msgstr ""
+
+#: src/pages/Additionaloptions.js:173
+msgid "Hide other method if checkbox is checked."
+msgstr ""
+
+#: src/pages/Additionaloptions.js:188
+msgid "Get minimum value from multiple condition"
+msgstr ""
+
+#: src/pages/Additionaloptions.js:191
+msgid "Get minimum value from multiple conditions."
+msgstr ""
+
+#: src/pages/Additionaloptions.js:194
+msgid ""
+"This feature, allow to set minimum shipping cost from multiple condition. "
+"By default, shipping cost are maximum amount, if have multiple condition."
+msgstr ""
+
+#: src/pages/Additionaloptions.js:210
+msgid "Weekend days"
+msgstr ""
+
+#: src/pages/Additionaloptions.js:213
+msgid "Set weekly holiday."
+msgstr ""
+
+#: src/pages/Additionaloptions.js:232
+msgid "Shipping delivery day will calculate exclude weekend days."
+msgstr ""
+
+#: src/pages/Additionaloptions.js:254
+msgid "Free shipping on Special days"
+msgstr ""
+
+#: src/pages/Additionaloptions.js:257
+msgid ""
+"Selected days will be Free shipping or special discount on shipping cost "
+"based on order date."
+msgstr ""
+
+#: src/pages/Additionaloptions.js:279
+msgid "Add international days from above list for free delivery."
+msgstr ""
+
+#: src/pages/Additionaloptions.js:287
+msgid "Percentage"
+msgstr ""
+
+#: src/pages/Additionaloptions.js:295
+msgid ""
+"Discount on total shipping cost for above selected special day's. Set 0 or "
+"100 for absolute free shipping."
+msgstr ""
+
+#: src/pages/Additionaloptions.js:317
+msgid "Set delivery date automatically "
+msgstr ""
+
+#: src/pages/Additionaloptions.js:320
+msgid "If checked, set delivery date automatically."
+msgstr ""
+
+#: src/pages/Additionaloptions.js:323
+msgid ""
+"Using this features, set your delivery date automatically and show delivery "
+"date in cart."
+msgstr ""
+
+#: src/pages/Additionaloptions.js:337
+msgid "Number of days"
+msgstr ""
+
+#: src/pages/Additionaloptions.js:346
+msgid ""
+"Number of days delivery after order. It will work if delivery day empty on "
+"Table rate options"
+msgstr ""
+
+#: src/pages/Additionaloptions.js:359
+msgid "Single Class Only"
+msgstr ""
+
+#: src/pages/Additionaloptions.js:364
+msgid "Disabled"
+msgstr ""
+
+#: src/pages/Additionaloptions.js:365
+msgid "Highest Priority"
+msgstr ""
+
+#: src/pages/Additionaloptions.js:366
+msgid "Highest Costing Class"
+msgstr ""
+
+#: src/pages/Additionaloptions.js:367
+msgid "Lowest Costing Class"
+msgstr ""
+
+#: src/pages/Additionaloptions.js:392
+#: src/pages/General.jsx:146
+#: src/pages/Methodconditions.jsx:385
+#: src/pages/ShippingByCity.jsx:115
+msgid "Next"
+msgstr ""
+
+#: src/pages/Additionaloptions.js:66
+msgid "Include Tax"
+msgstr ""
+
+#: src/pages/Additionaloptions.js:72
+msgid "Calculate shipping based on price after include tax."
+msgstr ""
+
+#: src/pages/Additionaloptions.js:86
+#: src/pages/Volumetricsettings.jsx:85
+msgid "Exclude Weight"
+msgstr ""
+
+#: src/pages/Additionaloptions.js:89
+msgid "Calculate shipping cost without product weight."
+msgstr ""
+
+#: src/pages/Additionaloptions.js:92
+msgid "Calculate shipping cost without product weight, if checked."
+msgstr ""
+
+#: src/pages/App.jsx:126
+msgid "Shipping Option"
+msgstr ""
+
+#: src/pages/App.jsx:210
+msgid "Shipping Option #"
+msgstr ""
+
+#: src/pages/General.jsx:112
+msgid "Flat Rate"
+msgstr ""
+
+#: src/pages/General.jsx:114
+msgid "Flat rate should be applicable while table rates are return empty."
+msgstr ""
+
+#: src/pages/General.jsx:45
+#: src/pages/ModallistWrap.jsx:197
+msgid "Method Title"
+msgstr ""
+
+#: src/pages/General.jsx:47
+msgid ""
+"Method title for identify shipping method in list page and for shipping "
+"title in cart page, when flat rate are applicable."
+msgstr ""
+
+#: src/pages/General.jsx:55
+msgid "Shipping Zone"
+msgstr ""
+
+#: src/pages/General.jsx:76
+msgid "Tax Status"
+msgstr ""
+
+#: src/pages/General.jsx:78
+msgid "Shipping Tax Status (Taxable / Non-Taxable)"
+msgstr ""
+
+#: src/pages/General.jsx:85
+msgid "Base Table Rules"
+msgstr ""
+
+#: src/pages/General.jsx:87
+msgid "Advance Shipping default rules"
+msgstr ""
+
+#: src/pages/General.jsx:94
+msgid "Handling fee"
+msgstr ""
+
+#: src/pages/General.jsx:96
+msgid "Product Handling Fee"
+msgstr ""
+
+#: src/pages/Licence.jsx:36
+msgid "Activation Key"
+msgstr ""
+
+#: src/pages/Licence.jsx:39
+msgid "Active"
+msgstr ""
+
+#: src/pages/Methodconditions.jsx:340
+msgid "Method Conditions"
+msgstr ""
+
+#: src/pages/Methodconditions.jsx:341
+msgid ""
+"These optional conditions will be required in order for any shipping "
+"options below to be returned. They are applied to the order as a whole "
+"regardless to your 'Base Table Rates' selection above."
+msgstr ""
+
+#: src/pages/Methodconditions.jsx:367
+msgid "Add New Condition"
+msgstr ""
+
+#: src/pages/ModallistWrap.jsx:121
+msgid "Add New Shipping Method"
+msgstr ""
+
+#: src/pages/ModallistWrap.jsx:130
+msgid "Select Shipping Zone"
+msgstr ""
+
+#: src/pages/ModallistWrap.jsx:149
+msgid "Add New Shipping Zone"
+msgstr ""
+
+#: src/pages/ModallistWrap.jsx:153
+#: src/pages/Tableofrates.jsx:182
+msgid "Done"
+msgstr ""
+
+#: src/pages/ModallistWrap.jsx:165
+msgid "Shipping Methods"
+msgstr ""
+
+#: src/pages/ModallistWrap.jsx:180
+msgid "New Method"
+msgstr ""
+
+#: src/pages/ModallistWrap.jsx:198
+msgid "No. of Options"
+msgstr ""
+
+#: src/pages/ModallistWrap.jsx:199
+msgid "Zone"
+msgstr ""
+
+#: src/pages/ModallistWrap.jsx:200
+msgid "Status"
+msgstr ""
+
+#: src/pages/ModallistWrap.jsx:69
+msgid "Quick Edit."
+msgstr ""
+
+#: src/pages/ModallistWrap.jsx:74
+msgid "Delete this Options."
+msgstr ""
+
+#: src/pages/ModallistWrap.jsx:92
+msgid "No shipping method have been added yet."
+msgstr ""
+
+#: src/pages/ModallistWrap.jsx:95
+msgid "Add New Method"
+msgstr ""
+
+#: src/pages/ShippingByCity.jsx:31
+msgid "Enable Shipping by City"
+msgstr ""
+
+#: src/pages/ShippingByCity.jsx:55
+msgid "Region is..."
+msgstr ""
+
+#: src/pages/ShippingByCity.jsx:57
+msgid "Set Including or Excluding City."
+msgstr ""
+
+#: src/pages/ShippingByCity.jsx:63
+msgid "Allowed City"
+msgstr ""
+
+#: src/pages/ShippingByCity.jsx:65
+msgid "Set list of city. List one city per line."
+msgstr ""
+
+#: src/pages/ShippingByCity.jsx:75
+msgid "List one city name per line"
+msgstr ""
+
+#: src/pages/ShippingByCity.jsx:88
+msgid "Disable Other Methods"
+msgstr ""
+
+#: src/pages/ShippingByCity.jsx:91
+msgid "Applicable only for selected city."
+msgstr ""
+
+#: src/pages/Tableofrates.jsx:116
+msgid "Import table rate settings"
+msgstr ""
+
+#: src/pages/Tableofrates.jsx:117
+msgid "Select a JSON file"
+msgstr ""
+
+#: src/pages/Tableofrates.jsx:141
+msgid "Update Shipping Option"
+msgstr ""
+
+#: src/pages/Tableofrates.jsx:150
+msgid "Shipping Option Title"
+msgstr ""
+
+#: src/pages/Tableofrates.jsx:164
+msgid "Enter the title customers will see (required)"
+msgstr ""
+
+#: src/pages/Tableofrates.jsx:201
+msgid "Export Settings as json format."
+msgstr ""
+
+#: src/pages/Tableofrates.jsx:207
+msgid "Import Settings from json file."
+msgstr ""
+
+#: src/pages/Tableofrates.jsx:214
+msgid "Add option"
+msgstr ""
+
+#: src/pages/Tableofrates.jsx:216
+msgid "Add another option for this method."
+msgstr ""
+
+#: src/pages/Tableofrates.jsx:225
+msgid "Save this mehtod."
+msgstr ""
+
+#: src/pages/Tableofrates.jsx:232
+msgid "Save"
+msgstr ""
+
+#: src/pages/Tableofrates.jsx:76
+msgid "Import Table of Rates"
+msgstr ""
+
+#: src/pages/Tableofrates.jsx:77
+msgid "Select a CSV file"
+msgstr ""
+
+#: src/pages/Tableofrates.jsx:92
+msgid "Upload CSV"
+msgstr ""
+
+#: src/pages/Topbar.jsx:14
+msgid "Back"
+msgstr ""
+
+#: src/pages/Topbar.jsx:25
+msgid "Table Rate Shipping"
+msgstr ""
+
+#: src/pages/Userpermission.jsx:109
+msgid "Shipping options appear for"
+msgstr ""
+
+#: src/pages/Userpermission.jsx:111
+msgid "Select user role, whos you want to show / hide shipping options."
+msgstr ""
+
+#: src/pages/Userpermission.jsx:70
+msgid "Ship to roles"
+msgstr ""
+
+#: src/pages/Userpermission.jsx:72
+msgid "Shipping option visiable for specific user of role"
+msgstr ""
+
+#: src/pages/Volumetricsettings.jsx:17
+msgid "Divide"
+msgstr ""
+
+#: src/pages/Volumetricsettings.jsx:18
+msgid "Multiply"
+msgstr ""
+
+#: src/pages/Volumetricsettings.jsx:33
+msgid "Volumetric Settings"
+msgstr ""
+
+#: src/pages/Volumetricsettings.jsx:38
+msgid "Volume Number"
+msgstr ""
+
+#: src/pages/Volumetricsettings.jsx:40
+msgid "Volume number calculation method"
+msgstr ""
+
+#: src/pages/Volumetricsettings.jsx:53
+msgid "Number"
+msgstr ""
+
+#: src/pages/Volumetricsettings.jsx:56
+msgid "Equation: ( LxWxH ) "
+msgstr ""
+
+#: src/pages/Volumetricsettings.jsx:56
+msgid " Volumetric Number"
+msgstr ""
+
+#: src/pages/Volumetricsettings.jsx:60
+msgid "Operand"
+msgstr ""
+
+#: src/pages/Volumetricsettings.jsx:62
+msgid "Operand for calculate volume."
+msgstr ""
+
+#: src/pages/Volumetricsettings.jsx:87
+msgid ""
+"Do not compare product weight to calculated volumetric weight. Weight "
+"condition should always equal the volumetric weight."
+msgstr ""
