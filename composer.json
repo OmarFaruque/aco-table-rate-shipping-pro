@@ -1,0 +1,18 @@
+"repositories": [
+    {
+        "type":"package",
+        "package": {
+          "name": "OmarFaruque/aco-table-rate-shipping-pro",
+          "version":"master",
+          "source": {
+              "url": "https://github.com/OmarFaruque/aco-table-rate-shipping-pro.git",
+              "type": "git",
+              "reference":"master"
+            }
+        }
+    }
+],
+"require": {
+    "OmarFaruque/aco-table-rate-shipping-pro": "master"
+}
+
