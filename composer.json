@@ -1,18 +1,19 @@
-"repositories": [
-    {
-        "type":"package",
-        "package": {
-          "name": "OmarFaruque/aco-table-rate-shipping-pro",
-          "version":"master",
-          "source": {
-              "url": "https://github.com/OmarFaruque/aco-table-rate-shipping-pro.git",
-              "type": "git",
-              "reference":"master"
-            }
+{
+    "name": "ronym/aco-table-rate-shipping-pro",
+    "description": "Table rate shipping for woocommerce",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Ronym\\AcoTableRateShippingPro\\": "src/"
         }
+    },
+    "authors": [
+        {
+            "name": "Omar Faruque",
+            "email": "ronymaha@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
     }
-],
-"require": {
-    "OmarFaruque/aco-table-rate-shipping-pro": "master"
 }
-
